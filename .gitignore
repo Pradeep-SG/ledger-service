@@ -1,1 +1,17 @@
+# Build
+target/
 
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# OS
+.DS_Store
+
+# Local secrets and overrides - never committed
+.env
+*.local.yml
+*.local.properties
